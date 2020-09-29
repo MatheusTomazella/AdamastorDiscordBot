@@ -1,8 +1,0 @@
-{
-    "name": "ADAMASTOR",
-    "version": "1.0.0",
-    "description": "Adamastor",
-    "main": "bot.js",
-    "author": "Matheus Tomazella",
-    "dependencies": {}
-}
