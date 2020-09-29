@@ -1,0 +1,19 @@
+{
+    "HELP": "\nTodos os comandos devem ser escritos da seguinte maneira: -comando \n\n-criador \t\t Retorna as informações do criador desse lixo. \n-help \t\t Retorna todos os comandos para usuários. \n-help-dev \t\t Retorna todos os comandos de teste.\n\nSe você chamar alguém de corno ou perguntar se alguém é corno eu respondo pra você não ficar falando sozinho.",
+    "HELPdev": "\n-teste \t\t Testa o fucionamento dos comandos te xingando.",
+    "CRIADOR": "\nE-mail: matheus250504@gmail.com\nGitHub: https://Github.com/matheustomazella",
+    "ERROR": "\nTendi não, fera. Vai estudar depois me chama: -help :heart:",
+    "CORNOpergunta": [ 
+        "Deve ser",
+        "Talvez",
+        "Com certeza",
+        "Óbvio, né",
+        "Nah, não tem nem como conseguir alguém pra ser corno",
+        "Não é não, deixa ele em paz!!"
+    ],
+    "CORNOconfirm": [
+        "Verdade, posso confirmar",
+        "A maior verdade já dita",
+        "Alguém precisava falar"
+    ]
+}
